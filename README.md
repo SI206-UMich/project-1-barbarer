@@ -1,4 +1,4 @@
-# Project1
+# Project 1
 
 On GitHub use the code button to get the url for your repo on GitHub - Do not download the zip file!
 Using the terminal, go to the folder on your local computer where you want the repository to be cloned
