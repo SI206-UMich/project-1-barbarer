@@ -1,8 +1,8 @@
 # Project1
 
-
+On GitHub use the code button to get the url for your repo on GitHub - Do not download the zip file!
 Using the terminal, go to the folder on your local computer where you want the repository to be cloned
-- git clone <link> on your terminal 
+- git clone url
 
 
 Make sure to do at least 3 commits 
